@@ -1,0 +1,13 @@
+.userItem {
+  padding: 10px;
+  border-bottom: 1px solid #ccc;
+  transition: all 0.3s ease-in-out;
+  background: linear-gradient(135deg, #c3cfe2 0%, #f5f7fa 100%);
+  cursor: pointer;
+}
+
+.userItem:hover {
+  background-color: #e0eafc;
+  transform: scale(1.02);
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}

@@ -1,0 +1,9 @@
+.userList {
+  max-width: 400px;
+  margin: 0 auto;
+  background: linear-gradient(to right, #ff7e5f, #feb47b);
+  padding: 20px;
+  border-radius: 10px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  animation: fadeIn 1s ease-in-out;
+}
